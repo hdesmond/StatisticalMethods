@@ -2,6 +2,7 @@
 
 Course notes and resources for Stanford University graduate lecture course PHYS366.
 BlahBlahBlah
+BLAH BLAH
 
 ### Course Objectives
 
