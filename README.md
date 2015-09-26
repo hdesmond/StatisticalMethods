@@ -1,6 +1,7 @@
 # PHYS366: Special Topics in Astrophysics: Statistical Methods 
 
 Course notes and resources for Stanford University graduate lecture course PHYS366.
+BlahBlahBlah
 
 ### Course Objectives
 
